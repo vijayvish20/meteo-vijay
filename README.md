@@ -1,5 +1,5 @@
 # meteo-vijay
-# Climate Science
+# Being Fluidic with Climate Science!
 
 I am Vijay Vishwakarma, a passionate person to learn and relearn, an enthusiatic and motivated research scholar in the School of Earth Ocean and Climate Sciences, Indian Institute of Technology, Bhubaneshwar.
 
